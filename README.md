@@ -1,0 +1,2 @@
+# Research-Proposal-Decomposing-Idiosyncratic-Volatility
+The high idiosyncratic volatility, low future returns is key in behavioral finance, often linked to investor demand for "lottery-like" stocks. This project refines this by separating IVOL into intraday (market-hour speculation) and overnight components. The central hypothesis is that high intraday volatility, not overall IVOL, drives the anomaly
